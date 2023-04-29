@@ -43,9 +43,9 @@ sendo ele diferente para cara valor (1 a 22).
   - [x] 20 - O Julgamento
   - [x] 21 - O Mundo
   - [x] 22 - O Louco
-    -[x] preencher o array `listaArcanoCompleta`
-    -[x] finalizar o switch de dentro da função `revelaArcano`
-    -[x] estilizar a página inicial
-    -[x] estilizar a página de cada arcano
-    -[x]  adaptar para diferentes telas
+ - [x] preencher o array `listaArcanoCompleta`
+ - [x] finalizar o switch de dentro da função `revelaArcano`
+ - [x] estilizar a página inicial
+ - [x] estilizar a página de cada arcano
+ - [x] adaptar para diferentes telas
  
