@@ -1,6 +1,5 @@
 # Descubra seu Arcano Maior
 
-Agradecimento em especial ao Gildo neto, que me auxiliou em etapas cruciais desse projeto.
 
 A ideia geral do projeto é criar um forms que solicite a 
 data de nascimento do usuário, essa informação é armazenada em variáveis no 
